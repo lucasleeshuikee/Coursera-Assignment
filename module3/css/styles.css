@@ -87,8 +87,9 @@ h2 {
 .row div {
   border: 2px solid black;
   align-items: center;
-  margin: 30px;
+  margin: 20px;
   padding:20px;
+
 }
 
 /* END HEADER */
